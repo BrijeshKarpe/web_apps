@@ -1,0 +1,31 @@
+                                                              (1) First form Staff Ragistration Form
+
+                                       
+
+				Home 		            Form		  						      Log_out
+						
+
+						i)Staff Login Form					
+						ii)Pincipal Login FORM =Daily Lecture Record of Staff on Database 		
+						iii)Staff Lecture Record:
+							Fields of that Form:-
+							a) Name Of Staff 
+							b) Department
+							c)Date
+							e)Time
+							e)Subject
+							f)class
+
+
+
+
+
+
+
+
+
+
+
+ii)-> Form Content For Daily Lecture Record on Database and link to the Principal Login Form 
+
+Name Of Staff     Department     Date    Time    Subject   class
